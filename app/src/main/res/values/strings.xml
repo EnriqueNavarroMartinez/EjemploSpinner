@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EjemploSpinner</string>
+
+    <string-array name="ciudades">
+        <item>Valencia</item>
+        <item>Madrid</item>
+        <item>Bilbao</item>
+        <item>Barcelona (envuelto en jamon)</item>
+
+
+
+    </string-array>
+</resources>
